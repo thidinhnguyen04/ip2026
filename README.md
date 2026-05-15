@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Nguyễn Đình Thi
+* 22BA13294
